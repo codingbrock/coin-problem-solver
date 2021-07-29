@@ -12,4 +12,4 @@ Run in your IDE of choice, but I used python's integrated development and learni
 
 Note: Don't use negative numbers for any of these or '1' for the first or second number or it'll break.
 
-GoodLuck!
+Good Luck!
