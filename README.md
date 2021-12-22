@@ -1,6 +1,8 @@
 # About
 I was given a question in a math test that essentially required me to find how many numbers (under 100) that could be created of 3 and 5.
-Didn't get the answer right, but I was curious enough to create this. It's far from perfect, but it's a good start.
+I was curious enough to create this. It's far from perfect, but it's a good start.
+
+I have just found out this is known as 'The Coin Problem' or the 'Frobenius problem' and have updated the name.
 
 
 ## Instructions
