@@ -6,8 +6,6 @@ I have just found out this is known as 'The Coin Problem' or the 'Frobenius prob
 
 
 ## Instructions
-Run in your IDE of choice, but I used python's integrated development and learning environment.
-
 1. Input the highest number you wish to seek to. (In my case, it was 100.)
 2. Input the first number. e.g. '3'
 3. Input the second number. e.g. '5'
